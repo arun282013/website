@@ -13,18 +13,23 @@ Email: nadh2007@gmail.com
 
 
 OBJECTIVE	
+
          To be a part of the challenging team which strives for the better growth of the organization and which explores my potential and provides me with the opportunity to enhance my talent with an intention to be an asset to the company
+
 
 PROFESSIONAL EXPERIENCE
 
-
+        Having 15+ years plus experience in Networking, Cloud, Linux and Windows server Administration.
 
 TECHNICAL SKILLS
 
 
 Operating Systems	: Windows 10, windows 11, Windows Server 2003, 2008,2016,2019 and 2022,Red-hat Linux, CentOS,Ubuntu, Debian Etc
+
 Remote Tools	:   VNC, Net Meeting, Team Viewer, Any Desk
+
 Database	:   MySQL Server, SQL Server , PostgreSQL , MongoDB etc 
+
 Virtualization	:   Vmware, Proxmox, Hyper V etc
 
 

@@ -1,5 +1,4 @@
-                                                                                    
-Curriculum Vitae
+                                                                                  
 ARUN NADH.G
 ARUNNIVAS
 BHOOTHAKULAM P.O ,  KOLLAM ,  KERALA
@@ -24,18 +23,17 @@ Performs backups of websites and database using different backup mechanisms.
 Experienced in database support and Network monitoring.
 
 TECHNICAL SKILLS
-Operating Systems	: Windows 10, windows 11, Windows Server 2003, 2008,                 2016,2019 and 2022,Red-hat Linux, CentOS,Ubuntu, Debian Etc
+
+
+Operating Systems	: Windows 10, windows 11, Windows Server 2003, 2008,2016,2019 and 2022,Red-hat Linux, CentOS,Ubuntu, Debian Etc
 Remote Tools	:   VNC, Net Meeting, Team Viewer, Any Desk
 Database	:   MySQL Server, SQL Server , PostgreSQL , MongoDB etc 
 Virtualization	:   Vmware, Proxmox, Hyper V etc
 
 
-
-
-
-
-
 CERTIFICATIONS 
+
+
 RHCE and RHCSA from REDHAT 
 MCITP Enterprise Administrator from MICROSOFT
 AWS Cloud Practitioner
@@ -43,22 +41,27 @@ AWS Certified Solutions Architect - Associate
 CERTIFIED ETHICAL HACKER(CEH)
    
 WORKING EXPERIENCE	
+
+
 Date			: Since May 2008 to till the date
 Company	: Center for Development of Imaging Technology (CDIT)
 Designation 		: System Administrator
 Work Location	: THIRUVANANTHAPURAM
 
 Responsibilities: 
+
+
+
 Installs, maintains and troubleshoots various Operating Systems, configures IP addresses, DNS Servers, Mail Servers, Proxy Servers, Web Servers, VPN Servers etc.
 Experienced in monitoring administration configuration and troubleshooting of various WAN and LAN Network Components and Devices.
 Ensure planned and efficient server support.
 Monitoring and Trouble shooting of Windows Servers 2016, 2019, 2022,  Linux servers ,VMware servers ,Database servers etc.
 Experienced in monthly Microsoft Hot fixes and Security Updates for all Microsoft Servers.
 Trouble shooting of alerts based on criticality for the maximum resolutions by keeping quality of work and escalating to next level in need of higher end trouble shooting.
- Creating and pointing of domains using DNS Servers(kerala.gov.in).
- Configuring AWS DevOps projects for various government departments.
-  Hosting and maintenance of Websites and Databases.
- Maintaining and managing all the Systems, Servers and Network inside office.
+Creating and pointing of domains using DNS Servers(kerala.gov.in).
+Configuring AWS DevOps projects for various government departments.
+Hosting and maintenance of Websites and Databases.
+Maintaining and managing all the Systems, Servers and Network inside office.
 
 
 Technical Proficiency
@@ -126,13 +129,6 @@ PROGRAMMING/SCRIPTING
 1. Intermediate level in programming C,C++
 2. Good Knowledge in PHP
 3. Knowledge in BASH scripting
-
-
-
-
-
-
-
 
 
 

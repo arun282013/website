@@ -42,7 +42,7 @@ MCITP Enterprise Administrator from MICROSOFT
 
 AWS Cloud Practitioner
 
-AWS Certified Solutions Architect - Associate![AWS SOLUTION ARCHITECT ASSOCIATE](https://www.credly.com/badges/66360cf1-e75e-4603-b012-f8fc4bd62b81/public_url)
+AWS Certified Solutions Architect - Associate![AWS SOLUTION ARCHITECT ASSOCIATE.](aws-certified-solutions-architect-associate.png)
 
 CERTIFIED ETHICAL HACKER(CEH) ![CEH CERTIFICATE]()
 

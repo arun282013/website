@@ -36,9 +36,11 @@ Virtualization	:   Vmware, Proxmox, Hyper V etc
 **CERTIFICATIONS** 
 
 
-RHCE and RHCSA from REDHAT ![RHCE @ RHCSA.](Redhat.png).
+RHCE and RHCSA from REDHAT
+ ![RHCE @ RHCSA.](Redhat.png).
 
-MCITP Enterprise Administrator from MICROSOFT ![MICROSOFT CERTIFIED.](microsoft.png).
+MCITP Enterprise Administrator from MICROSOFT
+ ![MICROSOFT CERTIFIED.](microsoft.png).
 
 AWS Cloud Practitioner![AWS Cloud Practitioner.](aws-certified-cloud-practitioner.png)
 

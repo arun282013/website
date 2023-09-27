@@ -148,8 +148,8 @@ Maintaining and managing all the Systems, Servers and Network inside office.
 **CLOUD EXPERIENCE**
 ---------------------
 
-1.AWS#
-2.GCP#
+1.AWS
+2.GCP
 3.AZURE
 
 

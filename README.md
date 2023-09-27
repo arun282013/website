@@ -45,9 +45,13 @@ CERTIFICATIONS
 
 
 RHCE and RHCSA from REDHAT 
+
 MCITP Enterprise Administrator from MICROSOFT
+
 AWS Cloud Practitioner
+
 AWS Certified Solutions Architect - Associate
+
 CERTIFIED ETHICAL HACKER(CEH)
    
 WORKING EXPERIENCE	

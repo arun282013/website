@@ -3,4 +3,5 @@ logo: my.jpeg
 #description:Server Admin
 show_downloads: true
 #theme: jekyll-theme-minimal
-theme: jekyll-theme-hacker
+#theme: jekyll-theme-hacker
+theme: jekyll-theme-Tactile

@@ -12,17 +12,17 @@ Mobile: +91- 9995855595 9947252354
 Email: nadh2007@gmail.com	
 
 
-OBJECTIVE	
+**OBJECTIVE**	
 
   To be a part of the challenging team which strives for the better growth of the organization and which explores my potential and provides me with the opportunity to enhance my talent with an intention to be an asset to the company.
         
 
-PROFESSIONAL EXPERIENCE
+**PROFESSIONAL EXPERIENCE**
                 
 Having 15+ years plus experience in Networking, Cloud, Linux and Windows server Administration.
             
         
-TECHNICAL SKILLS
+**TECHNICAL SKILLS**
 
 Operating Systems	: Windows 10, windows 11, Windows Server 2003, 2008,2016,2019 and 2022,Red-hat Linux, CentOS,Ubuntu, Debian Etc
 
@@ -33,7 +33,7 @@ Database	:   MySQL Server, SQL Server , PostgreSQL , MongoDB etc
 Virtualization	:   Vmware, Proxmox, Hyper V etc
 
 
-CERTIFICATIONS 
+**CERTIFICATIONS** 
 
 
 RHCE and RHCSA from REDHAT 
@@ -47,7 +47,7 @@ AWS Certified Solutions Architect - Associate
 CERTIFIED ETHICAL HACKER(CEH)
 
    
-WORKING EXPERIENCE	
+**WORKING EXPERIENCE**	
 
 
 Date			: Since May 2008 to till the date
@@ -55,7 +55,7 @@ Company	: Center for Development of Imaging Technology (CDIT)
 Designation 		: System Administrator
 Work Location	: THIRUVANANTHAPURAM
 
-Responsibilities: 
+**Responsibilities** 
 
 
 
@@ -80,9 +80,9 @@ Hosting and maintenance of Websites and Databases.
 Maintaining and managing all the Systems, Servers and Network inside office.
 
 
-Technical Proficiency
+**Technical Proficiency**
 
-SERVER CONFIGURATION LINUX BASED
+**SERVER CONFIGURATION LINUX BASED**
 
 1. Web Server Configuration
 2. Dns Server Configuration
@@ -99,7 +99,7 @@ SERVER CONFIGURATION LINUX BASED
 13. Experience in managing Docker and Kubernets Setups
 14. Experience in C panel(WHM),Cent Panel,Cyber Panel @ BSD Control Panels
 
-SERVER CONFIGURATION WINDOWS BASED
+**SERVER CONFIGURATION WINDOWS BASED**
 
 1. Web Server(IIS 7)
 2. Active Directory Management(AD)
@@ -110,7 +110,7 @@ SERVER CONFIGURATION WINDOWS BASED
 7. DHCP Server Management
 
 
-DATABASE 
+**DATABASE** 
 
 1. MySQL Server
 2. PostgreSQL Server
@@ -118,20 +118,20 @@ DATABASE
 4. SQL Server
 
 
-VIRTUALIZATION
+**VIRTUALIZATION**
 
 1. Vmware 
 2. Hyper-V in Windows servers
 3. Proxmox
 
-CLOUD EXPERIENCE
+**CLOUD EXPERIENCE**
 
 1.AWS 
 2.GCP
 3.AZURE
 
 
-NETWORKING
+**NETWORKING**
 
 1. LAN WAN networks management
 2. Complete understanding of TCP/IP,UDP
@@ -140,7 +140,7 @@ NETWORKING
 5. Experience in managing SOPHOS  firewall configurations
 
 
-PROGRAMMING/SCRIPTING
+**PROGRAMMING/SCRIPTING**
 
 1. Intermediate level in programming C,C++
 2. Good Knowledge in PHP
@@ -150,7 +150,7 @@ PROGRAMMING/SCRIPTING
 
 
 
-EDUCATIONAL PROFILE
+**EDUCATIONAL PROFILE**
 
 BE – Computer Science & Engineering from Indian Engineering College    (2007)-63%
 Plus 2 Science from GHSS Bhoothakulam(2002)
@@ -159,7 +159,7 @@ SSLC from GHSS Bhoothakulam (2000) -72%
 
 
 
-PERSONAL PROFILE
+**PERSONAL PROFILE**
 
 
 

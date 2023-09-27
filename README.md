@@ -149,7 +149,9 @@ Maintaining and managing all the Systems, Servers and Network inside office.
 ---------------------
 
 1.AWS 
+
 2.GCP
+
 3.AZURE
 
 
@@ -167,7 +169,9 @@ Maintaining and managing all the Systems, Servers and Network inside office.
 -------------------------
 
 1. Intermediate level in programming C,C++
+
 2. Good Knowledge in PHP
+
 3. Knowledge in BASH scripting
 
 

@@ -17,14 +17,7 @@ OBJECTIVE
 
 PROFESSIONAL EXPERIENCE
 
-Having 15+ years plus experience in Networking, Cloud, Linux and Windows server Administration. 
-Experienced in managing and troubleshooting of WAN, MAN Issue. 
-Provides complete IT support, including planning, software and hardware configuration, network design etc.
-Installs, maintains and troubleshoots OS, configures IP addresses, DNS Server, Mail Server, Proxy Server, Web Server, Windows/Linux Server configurations etc.
-Proficient in AWS, Azure, and Google cloud technologies.
-Experienced in monthly report managements verifying  the incidents tickets for keeping the teams work quality, if the necessary will provide the training to team members in the trouble shooting steps of the incidents. 
-Performs backups of websites and database using different backup mechanisms.
-Experienced in database support and Network monitoring.
+
 
 TECHNICAL SKILLS
 
@@ -48,7 +41,6 @@ AWS Certified Solutions Architect - Associate
 
 CERTIFIED ETHICAL HACKER(CEH)
 
-   https://github.com/arun282013/website/issues/1#issue-1915057305
    
 WORKING EXPERIENCE	
 

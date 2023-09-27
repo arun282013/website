@@ -19,7 +19,7 @@ OBJECTIVE
 
 
 PROFESSIONAL EXPERIENCE
-                      Having 15+ years plus experience in Networking, Cloud, Linux and Windows server Administration    
+                                                                                            Having 15+ years plus experience in Networking, Cloud, Linux and Windows server Administration    
           
      
         

@@ -36,23 +36,23 @@ Virtualization	:   Vmware, Proxmox, Hyper V etc
 **CERTIFICATIONS** 
 
 
-RHCE and RHCSA from REDHAT
+**RHCE and RHCSA from REDHAT**
 
  ![RHCE @ RHCSA.](Redhat.png).
 
-MCITP Enterprise Administrator from MICROSOFT
+**MCITP Enterprise Administrator from MICROSOFT**
 
  ![MICROSOFT CERTIFIED.](microsoft.png).
 
-AWS Cloud Practitioner
+**AWS Cloud Practitioner**
 
 ![AWS Cloud Practitioner.](aws-certified-cloud-practitioner.png)
 
-AWS Certified Solutions Architect - Associate
+**AWS Certified Solutions Architect - Associate**
 
 ![AWS SOLUTION ARCHITECT ASSOCIATE.](aws-certified-solutions-architect-associate.png)
 
-CERTIFIED ETHICAL HACKER(CEH)
+**CERTIFIED ETHICAL HACKER(CEH)**
 
 ![CEH CERTIFICATE.](ceh.png)
 

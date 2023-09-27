@@ -13,7 +13,8 @@ Email: nadh2007@gmail.com
 
 
 OBJECTIVE	
-        To be a part of the challenging team which strives for the better growth of the organization and which explores my potential and provides me with the opportunity to enhance my talent with an intention to be an asset to the company
+  To be a part of the challenging team which strives for the better growth of the organization and which explores my potential and provides me with the opportunity to enhance my talent with an intention to be an asset to the company
+        
 
 
 PROFESSIONAL EXPERIENCE

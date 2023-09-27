@@ -1,5 +1,5 @@
 title: ARUN NADH G
 logo: my.jpeg
-description:Server Admin
-show_downloads: false
+#description:Server Admin
+show_downloads: true
 theme: jekyll-theme-minimal

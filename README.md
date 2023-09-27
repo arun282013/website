@@ -40,11 +40,11 @@ RHCE and RHCSA from REDHAT
 
 MCITP Enterprise Administrator from MICROSOFT
 
-AWS Cloud Practitioner
+AWS Cloud Practitioner![AWS Cloud Practitioner.](aws-certified-cloud-practitioner.png)
 
 AWS Certified Solutions Architect - Associate![AWS SOLUTION ARCHITECT ASSOCIATE.](aws-certified-solutions-architect-associate.png)
 
-CERTIFIED ETHICAL HACKER(CEH) ![CEH CERTIFICATE]()
+CERTIFIED ETHICAL HACKER(CEH) ![CEH CERTIFICATE.](CEH.png)
 
    
 **WORKING EXPERIENCE**	

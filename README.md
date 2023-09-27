@@ -44,7 +44,7 @@ AWS Cloud Practitioner![AWS Cloud Practitioner.](aws-certified-cloud-practitione
 
 AWS Certified Solutions Architect - Associate![AWS SOLUTION ARCHITECT ASSOCIATE.](aws-certified-solutions-architect-associate.png)
 
-CERTIFIED ETHICAL HACKER(CEH) ![CEH CERTIFICATE.](CEH.png)
+CERTIFIED ETHICAL HACKER(CEH) ![CEH CERTIFICATE.](ceh.png)
 
    
 **WORKING EXPERIENCE**	

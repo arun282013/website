@@ -17,7 +17,6 @@ OBJECTIVE
 
 PROFESSIONAL EXPERIENCE
 
-
 Having 15+ years plus experience in Networking, Cloud, Linux and Windows server Administration. 
 Experienced in managing and troubleshooting of WAN, MAN Issue. 
 Provides complete IT support, including planning, software and hardware configuration, network design etc.

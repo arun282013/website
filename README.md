@@ -156,15 +156,22 @@ SSLC from GHSS Bhoothakulam (2000) -72%
 
 PERSONAL PROFILE
 
-Father’s Name 	        : Mr.K.Gopinadhan Nair	
-Permanent Address	: “Arunnivas”, Bhoothakulam P.O
-Kollam,
-Kerala.-691302.
+
+
+Father’s Name 	        : Mr.K.Gopinadhan Nair
+	
+Permanent Address	: “Arunnivas”, Bhoothakulam P.O Kollam,Kerala.-691302.
+
 Phone                   :       0474-2514734 / +91-9947252354
+
 Nationality       	:	Indian
+
 Date of Birth	        :	29-05-1985
+
 Passport No	        :	R7262309 Valid up to – 26/12/2027
+
 Language Proficiency	:	English, Hindi, Malayalam & Tamil.
+
 Strengths		:       Keen to learn, Determined, Flexible, Confident.
 
 

@@ -1,5 +1,6 @@
-                                                                                  
-**ARUN NADH.G**                                                                                           ![arun.](arun.jpeg).
+![arun.](arun.jpeg).                                                                              
+
+**ARUN NADH.G**                                                                                           
 
 **ARUNNIVAS**
 

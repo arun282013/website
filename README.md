@@ -1,5 +1,5 @@
  
-<img src="https://github.com/arun282013/website/blob/main/arun.jpeg" width="20%" height="20%">                                                                             
+<img src="arun.jpeg" width="20%" height="20%">                                                                             
 
 **ARUN NADH.G**                                                                                           
 
